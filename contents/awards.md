@@ -3,6 +3,4 @@
   
 
 
-- School Special Academic Scholarship, 2023.**(1%)**
-
-- First-Class Academic Scholarship, 2022.**(8%)**
+- **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA.
