@@ -1,6 +1,6 @@
 
 #### Biography
-I am You Huang, currently a second-year Ph.D. student in the School of Informatics at Xiamen University, China, under the guidance of Prof. Rongrong Ji. I earned my B.Sc. degree in Financial Mathematics and my M.Sc. degree in Computer Science and Technology from Fuzhou University, Fuzhou, China, where my master’s research was supervised by Prof. Yuanlong Yu. Before commencing my Ph.D., I worked as a research assistant at Tsinghua University under the guidance of Prof. Huaping Liu.
+I am You Huang, currently a third-year Ph.D. student in the School of Informatics at Xiamen University, China, under the guidance of Prof. Rongrong Ji. I earned my B.Sc. degree in Financial Mathematics and my M.Sc. degree in Computer Science and Technology from Fuzhou University, Fuzhou, China, where my master’s research was supervised by Prof. Yuanlong Yu. Before commencing my Ph.D., I worked as a research assistant at Tsinghua University under the guidance of Prof. Huaping Liu.
 
 My research primarily focuses on interactive image segmentation, and aim to improve the efficiency of image annotation processes, essential for producing high-quality annotated data needed to train large multimodal models and for specialized segmentation tasks. My efforts have led to the publication of papers at top-tier conferences such as CVPR and ICCV.
 
